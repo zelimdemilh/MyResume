@@ -22,7 +22,7 @@ const Contacts = () => {
           </a>
         </li>
         <li>
-          <a href="www.linkedin.com/in/zelimdemilh">
+          <a href="https://linkedin.com/in/zelimdemilh">
             <span className="icon">
               <i className="bi bi-linkedin"></i>
             </span>
