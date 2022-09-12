@@ -14,8 +14,8 @@ const RightSide = () => {
       <div className="about">
         <h2 className="title2"> Опыт работы</h2>
         <CallHunter />
-        <Chspu />
         <MixStore />
+        <Chspu/>
         <Skills />
       </div>
     </div>

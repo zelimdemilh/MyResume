@@ -4,7 +4,7 @@ const MixStore = () => {
   return (
     <div className="box">
       <div className="year_company">
-        <h5>2020 - 2021</h5>
+        <h5>2021 - 2022</h5>
         <h5> MixStore </h5>
       </div>
       <div className="text">
