@@ -27,12 +27,12 @@ p {
 
 .about .box .year_company {
   min-width: 150px;
+  padding-right: 10px;
 }
 
 .about .box .year_company h5 {
   text-transform: uppercase;
   color: #848c99;
-  font-width: 600;
 }
 
 .about .box .text h4 {

@@ -1,8 +1,8 @@
 import React from "react";
 import "./index.css";
 import CallHunter from "./CallHunter";
-import Chspu from "./Chspu";
-import MixStore from "./MixStore";
+import Freelance from "./Freelance";
+import Unicode from "./Unicode";
 import Skills from "./Skills";
 import Introducere from "./Introducere";
 
@@ -13,9 +13,9 @@ const RightSide = () => {
 
       <div className="about">
         <h2 className="title2"> Опыт работы</h2>
+        <Unicode/>
         <CallHunter />
-        <MixStore />
-        <Chspu/>
+        <Freelance/>
         <Skills />
       </div>
     </div>

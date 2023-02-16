@@ -11,7 +11,7 @@ const LeftSide = () => {
       <Profile />
       <Contacts />
       <Education />
-      <Languages />
+      {/*<Languages />*/}
     </div>
   );
 };
