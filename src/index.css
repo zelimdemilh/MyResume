@@ -20,7 +20,7 @@ body {
   min-height: 100vh;
 }
 
-#container {
+#root {
   position: relative;
   width: 100%;
   max-width: 1200px;
@@ -33,7 +33,7 @@ body {
 }
 
 @media (max-width: 1000px) {
-  #container {
+  #root {
     margin: 10px;
     grid-template-columns: repeat(1, 1fr);
   }
